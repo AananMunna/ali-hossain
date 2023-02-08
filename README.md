@@ -1,1 +1,1 @@
-<a href="https://aananmunna.github.io/ali-hossain"><button>Live Preview</button></a>
+<a href="https://aananmunna.github.io/ali-hossain" target="_blank"><button>Live Preview</button></a>
