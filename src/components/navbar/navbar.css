@@ -1,0 +1,53 @@
+.navbar-bg {
+    background: #F0F4F7;
+}
+
+.navbar-logo {
+    max-width: 76%;
+    height: auto;
+    margin-top: 5px;
+}
+
+.nav-link-style {
+    font-size: 15px;
+    color: #202428 !important;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+    line-height: 1.7em;
+    margin: 20px 0 10px 4px !important;
+    padding: 10px 20px !important;
+    transition: all 0.7s ease 0s;
+}
+
+.nav-link-style:hover {
+    background: #7158E2;
+    color: white !important;
+}
+
+.lastNavLink {
+    color: white !important;
+    background: #262626;
+}
+
+@media screen and (max-width: 991px) {
+    .navbar-toggle-btn {
+        border: none !important;
+        outline: none !important;
+    }
+}
+
+@media screen and (max-width: 386px) {
+    .navbar-logo {
+        margin: 0;
+        padding: 0;
+        display: inline;
+        width: 60%;
+    }
+
+    .navbar-toggle-btn {
+        margin: 0;
+        padding: 0;
+        display: inline;
+    }
+
+}

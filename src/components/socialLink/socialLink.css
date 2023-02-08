@@ -1,0 +1,39 @@
+.socialLink {
+    position: fixed;
+    margin: 0px;
+    border: 0px;
+    top: 100px;
+    right: 10px;
+    height: calc(100% - 140px);
+    opacity: 1;
+    width: calc(100% - 38px);
+    max-width: 35px;
+    border-radius: 10px;
+    background: transparent;
+    transition: all 0.4s ease 0s;
+}
+
+.socialLink a {
+    display: block;
+    overflow: hidden;
+    height: 40px;
+    line-height: 32px;
+    padding: 0;
+    pointer-events: none;
+    width: 40px;
+    cursor: pointer !important;
+}
+
+.socialLink div {
+    cursor: pointer;
+}
+
+.socialLink a:hover {
+    background: transparent;
+}
+
+.sLink {
+    width: 32px;
+}
+
+@media screen and (max-width: 991px) {}

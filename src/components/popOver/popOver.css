@@ -1,0 +1,151 @@
+#popOverBtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 64px;
+    height: 64px;
+    background: rgb(255, 129, 63);
+    color: white;
+    border-radius: 32px;
+    position: fixed;
+    right: 18px;
+    bottom: 18px;
+    box-shadow: rgb(0 0 0 / 40%) 0px 4px 8px;
+    z-index: 9999;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.2s ease 0s;
+    transform: scale(1);
+}
+
+#popOverBtn img {
+    height: 40px;
+    width: 40px;
+}
+
+#offcanvasRight {
+    position: fixed;
+    margin: 0px;
+    border: 0px;
+    top: 45px;
+    right: 18px;
+    bottom: 98px;
+    height: calc(100% - 140px);
+    opacity: 1;
+    width: calc(100% - 38px);
+    max-width: 350px;
+    border-radius: 10px;
+    box-shadow: rgb(13 12 34 / 10%) -6px 0px 30px;
+    background: url(https://cdn.buymeacoffee.com/assets/img/widget/loader.svg) center center / 64px no-repeat rgb(255, 255, 255);
+    z-index: 999999;
+    transition: all 0.4s ease 0s;
+    max-height: 620px;
+}
+
+.offcanvas-body h1 {
+    font-size: 26px;
+    color: #222;
+}
+
+.coffeeCard {
+    background: rgba(189, 95, 255, 0.06);
+    border: 1px solid rgba(189, 95, 255, 0.264776) !important;
+    display: flex;
+    padding: 18px;
+    margin-top: 6px;
+}
+
+.coffeeEmoji {
+    font-size: 33px !important;
+}
+
+.x {
+    margin-top: 15px;
+    font-size: 13px;
+}
+
+.coffeeCardNum {
+    display: inline-block;
+    padding: 11px 16px;
+    margin-right: 5px;
+    cursor: pointer;
+    border-radius: 50%;
+    background: #fff;
+    border: 1px solid rgba(255, 129, 63, .264776);
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    width: 45px;
+    height: 45px;
+}
+
+.coffeeCardInp {
+    width: 40px;
+    height: 40px;
+    margin-right: 5px;
+    margin-top: 2px;
+    padding: 0px;
+    text-align: center;
+    line-height: normal;
+    font-size: 14px;
+    border: 1px solid #e1e1e1;
+    color: #333;
+    transition: .3s all linear;
+}
+
+#coffeeInp1 {
+    appearance: none;
+    background: rgba(34, 34, 34, 0.05);
+    border: 1px solid rgba(34, 34, 34, 0.05);
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 0 16px;
+    height: 48px;
+    box-shadow: none !important;
+}
+
+.coffeeInpHeight {
+    height: 120px !important;
+    resize: none;
+}
+
+.payBtn {
+    background-color: rgba(189, 95, 255, 0.87) !important;
+    border: none;
+    box-shadow: none !important;
+    border-radius: 51px;
+    width: 100% !important;
+    padding: 11px 0 !important;
+    font-size: 16px !important;
+    letter-spacing: 0.2px !important;
+    color: white;
+}
+
+.coffeeFooter {
+    background-color: #fff;
+    box-shadow: 2px 0px 11px 3px rgb(0 0 0 / 4%);
+    border-radius: 0px 0px 4px 4px;
+    width: 100%;
+    z-index: 9999;
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+
+.coffeeFooterBtn {
+    color: #6E6D7A;
+    background: rgba(35, 31, 31, 0.03);
+    border-radius: 44px;
+    padding: 6px 16px;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+    margin: auto;
+}
+
+.coffeeFooterImg {
+    width: 15px;
+    margin: 2px;
+}

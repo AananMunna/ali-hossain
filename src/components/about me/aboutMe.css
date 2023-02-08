@@ -1,0 +1,186 @@
+.aboutMe {
+    background: #F0F4F7;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.aboutMeHeading {
+    color: #262626;
+    font-family: "Playfair Display", Sans-serif;
+    font-size: 75px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+}
+
+.aboutMeSubHeading {
+    font-family: "Playfair Display", Sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+    color: #9A58E2;
+}
+
+.myself h1 {
+    font-size: 35px;
+    font-family: "Playfair Display", Sans-serif;
+    color: #7158E2;
+    font-weight: bold;
+}
+
+.myself p {
+    color: #7A7A7A;
+    font-family: "Roboto", Sans-serif;
+    font-size: 18px;
+}
+
+.aboutMeCard {
+    box-shadow: 0px 0px 10px 0px rgb(173 172 172 / 50%);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 35px;
+    border-radius: 20px 20px 20px 20px;
+    height: 100%;
+    background-color: transparent;
+    background-image: linear-gradient(225deg, #FFFFFF 0%, #E6EBEE 100%);
+}
+
+.aboutMeCardHeading {
+    font-size: 35px;
+    font-family: "Playfair Display", Sans-serif;
+    color: #735BE2;
+    font-weight: bold;
+}
+
+.educationIcon {
+    font-size: 40px;
+    color: #735BE2;
+}
+
+.educationP1 {
+    font-size: 15px;
+    font-family: "Poppins", Sans-serif;
+    font-weight: bold;
+}
+
+.educationP2 {
+    font-size: 20px;
+    font-family: "Playfair Display", Sans-serif;
+    font-weight: bold;
+    margin-bottom: 17px;
+}
+
+.experienceUnderDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.experienceHeading {
+    font-size: 55px;
+    font-family: "Playfair Display", Sans-serif;
+    color: #735BE2;
+    font-weight: bold;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.experienceSubHeading {
+    font-size: 22px;
+    font-family: "Playfair Display", Sans-serif;
+    font-weight: bold;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.experienceCard {
+    box-shadow: 0px 0px 10px 0px rgb(173 172 172 / 50%);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 35px;
+    border-radius: 20px 20px 20px 20px;
+    height: 100%;
+    background-color: transparent;
+    background-image: linear-gradient(225deg, #FFFFFF 0%, #E6EBEE 100%);
+    margin-bottom: 35px;
+}
+
+.experienceCardIcon {
+    font-size: 60px;
+    color: #7158E2;
+    width: 100%;
+    display: block;
+    margin-top: auto;
+    position: relative;
+    right: 0;
+    bottom: 30px;
+}
+
+.experienceCardText1 {
+    font-size: 15px;
+    font-weight: bold;
+    font-family: "Poppins", Sans-serif;
+    margin-left: 40px;
+}
+
+.experienceCardText2 {
+    font-weight: bold;
+    font-size: 20px;
+    margin: 4px 0 8px 0;
+    font-family: "Playfair Display", Sans-serif;
+    margin-left: 40px;
+}
+
+.experienceCardText3 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    margin-left: 40px;
+}
+
+@media screen and (max-width: 768px) {
+    .experienceCardIcon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .aboutMeHeading {
+        font-size: 55px;
+    }
+
+    .aboutMeSubHeading {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .aboutMeHeading {
+        font-size: 35px;
+    }
+
+    .aboutMeSubHeading {
+        font-size: 18px;
+    }
+
+    .aboutMeCardHeading {
+        font-size: 25px;
+    }
+
+    .experienceHeading {
+        font-size: 30px;
+    }
+
+    .experienceSubHeading {
+        font-size: 20px;
+    }
+
+    .experienceCardText2 {
+        font-size: 16px;
+    }
+}

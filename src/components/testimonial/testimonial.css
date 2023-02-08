@@ -1,0 +1,46 @@
+.testimonialHeading {
+    color: #735BE2;
+    font-family: "Playfair Display", Sans-serif;
+    font-size: 55px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.testimonialSubHeading {
+    color: #262626;
+    font-family: "Playfair Display", Sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.testimonialCard {
+    text-align: center;
+    box-shadow: 0px 0px 10px 0px rgb(173 172 172 / 50%);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 25px 20px 20px 20px;
+    border-radius: 20px 20px 20px 20px;
+    height: 100%;
+    background-color: transparent;
+    background-image: linear-gradient(225deg, #FFFFFF 0%, #E6EBEE 100%);
+    text-align: center; 
+}
+
+.testimonialText {
+    font-weight: 300;
+    line-height: 1.6em;
+    margin-bottom: 15px;
+    font-family: "Poppins", Sans-serif;
+}
+
+.testimonialImg {
+    border-radius: 50px;
+}
+
+.testimonialLast {
+    color: #735BE2;
+    font-family: "Poppins", Sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: start;
+    margin-left: 15px !important;
+}

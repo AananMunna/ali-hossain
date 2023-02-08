@@ -1,0 +1,13 @@
+.scrollUp {
+    position: fixed;
+    z-index: 2147483647;
+    display: block;
+    background: url("../../assets/top.png") no-repeat;
+    height: 38px;
+    width: 38px;
+    bottom: 5px;
+    right: 5px;
+    text-indent: -999999px;
+    display: block;
+    cursor: pointer;
+}
