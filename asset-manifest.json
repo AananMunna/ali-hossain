@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ali-hossain/static/css/main.86c4151c.css",
-    "main.js": "/ali-hossain/static/js/main.bf44d9a0.js",
+    "main.js": "/ali-hossain/static/js/main.b50e2b21.js",
     "static/media/Udemy-web-design.jpg": "/ali-hossain/static/media/Udemy-web-design.2076fd6c88552ea702c5.jpg",
     "static/media/Ali-Hossain.png": "/ali-hossain/static/media/Ali-Hossain.d02e07405483f503b7c8.png",
     "static/media/JavaScript-Books-for-Beginners-to-Advanced-Developers.jpg": "/ali-hossain/static/media/JavaScript-Books-for-Beginners-to-Advanced-Developers.75c078c7224c007cef6c.jpg",
@@ -29,10 +29,10 @@
     "index.html": "/ali-hossain/index.html",
     "static/media/icons8-facebook.svg": "/ali-hossain/static/media/icons8-facebook.22d5e33c85b7691bd69150ce20e2d12b.svg",
     "main.86c4151c.css.map": "/ali-hossain/static/css/main.86c4151c.css.map",
-    "main.bf44d9a0.js.map": "/ali-hossain/static/js/main.bf44d9a0.js.map"
+    "main.b50e2b21.js.map": "/ali-hossain/static/js/main.b50e2b21.js.map"
   },
   "entrypoints": [
     "static/css/main.86c4151c.css",
-    "static/js/main.bf44d9a0.js"
+    "static/js/main.b50e2b21.js"
   ]
 }
