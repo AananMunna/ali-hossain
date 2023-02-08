@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/ali-hossain/static/css/main.86c4151c.css",
+    "main.js": "/ali-hossain/static/js/main.bf44d9a0.js",
+    "static/media/Udemy-web-design.jpg": "/ali-hossain/static/media/Udemy-web-design.2076fd6c88552ea702c5.jpg",
+    "static/media/Ali-Hossain.png": "/ali-hossain/static/media/Ali-Hossain.d02e07405483f503b7c8.png",
+    "static/media/JavaScript-Books-for-Beginners-to-Advanced-Developers.jpg": "/ali-hossain/static/media/JavaScript-Books-for-Beginners-to-Advanced-Developers.75c078c7224c007cef6c.jpg",
+    "static/media/Best-Way-to-learn-code.jpg": "/ali-hossain/static/media/Best-Way-to-learn-code.48e43a35b79088ce8942.jpg",
+    "static/media/Common-Bootstrap-Mistakes-To-Avoid.jpg": "/ali-hossain/static/media/Common-Bootstrap-Mistakes-To-Avoid.b8598153b6854f9e7175.jpg",
+    "static/media/ali_hossain.jpg": "/ali-hossain/static/media/ali_hossain.1796e4d3aca63fe14ecc.jpg",
+    "static/media/Best-practice-for-writing-code-comments-min.jpg": "/ali-hossain/static/media/Best-practice-for-writing-code-comments-min.2f50258ae437fceff59f.jpg",
+    "static/media/EN-300x600-1.jpg": "/ali-hossain/static/media/EN-300x600-1.d094b5d77f85d3632d8e.jpg",
+    "static/media/udemy.jpg": "/ali-hossain/static/media/udemy.160d6dba62c0c6980752.jpg",
+    "static/media/Why-PHP-Is-Still-So-Important-for-Web-Development.jpg": "/ali-hossain/static/media/Why-PHP-Is-Still-So-Important-for-Web-Development.7bb48a7b8da03556bb15.jpg",
+    "static/media/contact1.png": "/ali-hossain/static/media/contact1.8ddfbfd11798f881db54.png",
+    "static/media/Bootstrap.jpg": "/ali-hossain/static/media/Bootstrap.fdc4577f06dfde112e70.jpg",
+    "static/media/PHP-Trand-768x477.jpg": "/ali-hossain/static/media/PHP-Trand-768x477.7fad360126bbc59b19c3.jpg",
+    "static/media/bmc_qr-300x300.png": "/ali-hossain/static/media/bmc_qr-300x300.3bbe45f288e5adcce5af.png",
+    "static/media/Why-So-Many-Programmers-Are-Quitting-min.jpg": "/ali-hossain/static/media/Why-So-Many-Programmers-Are-Quitting-min.323ffb012f2063bc63f4.jpg",
+    "static/media/Will-chatgpt-replace-your-job.jpg": "/ali-hossain/static/media/Will-chatgpt-replace-your-job.aa82a1be6572e9bf3c40.jpg",
+    "static/media/Code.jpg": "/ali-hossain/static/media/Code.a75cd9561be5a9eb2c13.jpg",
+    "static/media/Head-First-JavaScript-Programming.jpg": "/ali-hossain/static/media/Head-First-JavaScript-Programming.d61e7dbab7b631f28780.jpg",
+    "static/media/JavaScript-Cookbook.jpg": "/ali-hossain/static/media/JavaScript-Cookbook.1ee87cef1cf4822d1d52.jpg",
+    "static/media/JavaScript-The-Definitive-Guide-229x300.jpg": "/ali-hossain/static/media/JavaScript-The-Definitive-Guide-229x300.1e1b7e11167853e6b29b.jpg",
+    "static/media/Eloquent-JavaScript-218x300.jpg": "/ali-hossain/static/media/Eloquent-JavaScript-218x300.06968aa2715bcc462276.jpg",
+    "static/media/cleanearthsci_thumb.jpg": "/ali-hossain/static/media/cleanearthsci_thumb.d9b7f9057421d3d164af.jpg",
+    "static/media/Qtex-Serve-BD.jpg": "/ali-hossain/static/media/Qtex-Serve-BD.c2d1ad7c704fb118be65.jpg",
+    "static/media/coffee cup.svg": "/ali-hossain/static/media/coffee cup.5bed4f0bb8b513f4ac30e7ad12602cbe.svg",
+    "index.html": "/ali-hossain/index.html",
+    "static/media/icons8-facebook.svg": "/ali-hossain/static/media/icons8-facebook.22d5e33c85b7691bd69150ce20e2d12b.svg",
+    "main.86c4151c.css.map": "/ali-hossain/static/css/main.86c4151c.css.map",
+    "main.bf44d9a0.js.map": "/ali-hossain/static/js/main.bf44d9a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86c4151c.css",
+    "static/js/main.bf44d9a0.js"
+  ]
+}
